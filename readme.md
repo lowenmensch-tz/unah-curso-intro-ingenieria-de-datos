@@ -1,5 +1,9 @@
+#edicionesAndersonJassielLeon
+
+
 # Introducción a la Ingeniería de Datos y Diseño de Base de Datos
-Repositorio para el curso de Introducción a Ingeniería  de Datos y Diseño de Base de datos con Python, MySQL y Talend, UNAH 2023
+Repositorio para el curso de Introducción a Ingeniería de Datos y Diseño de Base de datos con Python, MySQL y 
+Talend, UNAH 2023
 
 ![](images/banner-v4.png)
 
